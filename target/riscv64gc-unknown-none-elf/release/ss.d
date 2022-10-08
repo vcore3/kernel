@@ -1,0 +1,1 @@
+/home/vcore/ss/target/riscv64gc-unknown-none-elf/release/ss: /home/vcore/ss/src/console.rs /home/vcore/ss/src/entry.asm /home/vcore/ss/src/long_items.rs /home/vcore/ss/src/main.rs /home/vcore/ss/src/sbi.rs
